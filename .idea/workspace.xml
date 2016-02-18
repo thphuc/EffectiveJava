@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="491499fa-1431-46ef-bb92-ac09d352af90" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="491499fa-1431-46ef-bb92-ac09d352af90" name="Default" comment="" />
     <ignored path="EffectiveJava.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -920,12 +917,12 @@
       <created>1455813171255</created>
       <option name="number" value="Default" />
       <updated>1455813171255</updated>
-      <workItem from="1455813174758" duration="1142000" />
+      <workItem from="1455813174758" duration="1193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1142000" />
+    <option name="totallyTimeSpent" value="1193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="141" y="23" width="1516" height="1016" extended-state="0" />
